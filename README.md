@@ -42,7 +42,7 @@
 
 ---
 
-## 🗃️ MongoDB Collections
+
 
 ### 🔧 Installation Steps
 
